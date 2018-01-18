@@ -1,1 +1,135 @@
 App Dev Jan 18th
+
+Design patterns:
+
+
+Lecture time: 
+
+-- Repeatable solution to a common design problem that can be repeated 
+in different projects. They fit common requirements
+--flexible
+
+--Guidelines for app dev's to follow
+	Very specific
+
+--App development sucks for cross platform design
+
+--Mobile centric thinking
+	Designers looking beyond desktop and web conventions	
+	organic to mobile interfaces
+
+--Each Os has a very specific guidlines that the Dev should follow
+
+IOS human interface guidlines
+Android Material Design
+
+
+--Users become very tuned to these guidlines
+--Back button on android the main difference between the two Os'
+
+--Some designers incorporate the back button to return to previous pages, some don't.
+
+Temporal vs. Hierarchal 
+
+--Different trajectories (landing on different pages)
+
+--back button also has different functionality to exit out of keyboard and other prompts that apple 
+doesn't have
+
+--Icons
+	Full list of icons that can be used. Each have specific uses and connotations
+	Icons differ between Os'
+	i.e. sharing icon between them
+
+--HAMBURGER MENU IS FUCKING DELICIOUS
+	kind of...
+--Controversial quick fix 
+	some think it's bad because you're hiding your information
+	some argue that you should pick out your main navigation to be pinned
+
+--You can challenge conventions, but beware dog.
+	Some just work and are too ingrained in daily use
+
+--Hiding functionality behind actions can be ambiguous and unclear.
+	Icons have to be readable.
+	Effective icons should not have to be explained.
+	Should be intuitive.
+	Abstract features should always be displayed with a proper text label.
+
+--Icon and button design
+	Big enough and that there's enough space around them so that they can touch the right buttons
+	Humans are dumb
+
+
+-- Navigation
+	Two types:
+		Persistent: As soon as you open it, it is there 
+		Transient: Behind a certain gesture to access it
+	
+	Youtube likes to change their Nav a lot. 
+	from transient to persistent to persistent tabs
+	Consistently renegotiating where their priorities are to allow the user to determin their interests
+
+////////// PERSISTENT \\\\\\\\\\\\\\\\
+
+--If you can use persistent nav DO
+
+	Flat application = persistent
+	Persistent also helps for notifications
+
+-- Springboard NAv
+	landing screen with options that act as launch points into the application.
+	
+	Springboard = FLAT
+	
+	
+--Tab bar: switch views easily and quickly  
+	tabs across the top
+	
+	Tabs allow for a call-to-action
+	differentiate the call to action vs the actual active page.
+
+
+/////////////////Transient NAV\\\\\\\\\\\\\\\\\\\
+
+--Side drawer
+	slides in from left or right and contains the navigation destinations for your app
+
+--Page swiping
+	using visual queue's like cards so people get the idea to swipe
+	Many applications don't consider the affordances 
+	Consider THEM BITCH
+				
+
+--In context nav
+	will display new nav controls based on the controls
+	back arrow that appears in order to make sure that the person knows what's up
+
+///////////tools/Actions\\\\\\\\\\\\\\\\
+--Tab bar vs tool bar
+	tab: nav
+	tool: tools for the content at hand 
+
+--Tools/actions 
+	call-to-action
+		help users complete a flow successfully by providing important queue's
+		
+
+--Persistent invitation
+	Helps getting users started with using your app for the first time
+	tool tips are fine if they aren't too invasive
+
+	tool tips should be short and concise, as well as in proximity to the content
+
+Pattern choice should also be informed by the content and actions that the user performs on that content.
+
+
+
+	
+
+
+
+
+
+
+	
