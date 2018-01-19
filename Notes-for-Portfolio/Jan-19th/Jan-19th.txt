@@ -188,7 +188,7 @@ Why is there not a lot of information in RYANS BIO?
 	
 
 
-Suggestions to make it better:
+////////////////////Suggestions to make it better:\\\\\\\\\\\\\\\\\\\\\\
 
 
 	Update it. 
@@ -212,6 +212,11 @@ Suggestions to make it better:
 Conventions and stuff
 
 	using geographical locations i.e. CASA in Lethbridge Alberta 
+
+
+
+
+
 
 	
 
