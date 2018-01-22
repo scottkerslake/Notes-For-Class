@@ -1,0 +1,82 @@
+Jan 22nd
+
+
+Sensors with arduino
+
+
+Fingers send electrical currents through touch screens.
+
+
+Echolocation sensor, can I please have?
+
+
+Wearables for biometrics
+Sensors also for tsunami prevention
+ 
+
+int pin7 = 7; inte
+
+digitalread(); only returns a high or a low value i.e. binary 0 or 1
+
+
+
+analogread(); reads voltage sensor. Return the value between 0-1023
+		returns it in bits 
+
+
+
+Variable setup 
+
+int var = 0; sensor info goes here
+
+void loop() {
+	var = digitalRead(Pin);
+	// prints the line to the console
+	println(var);
+
+
+	
+
+}
+
+map(); allows us to change the number range of an analogRead();
+
+void loop(){
+
+	int x = 0;
+	x = analogRead(Pin7); reads pin 7 and adds it to the x value 
+	
+	map(x,0,1023,0,500); //takes the x vale and divides the default range into 500
+
+}
+
+
+Pin setup for an output
+
+int PIN6 = 6; //integer
+
+pinMode(Pin6, OUTPUT) // sets pin6 to output the 
+
+
+Why choose these pins 
+
+
+
+Assignment 2
+
+
+Consider the Aesthetics of the device 
+theres a thing called pulse width modulation
+
+
+
+analogWrite(); sends value between 0, and 1023 only works with PWM pins
+
+	Servos also only run on PWM pins 
+
+
+Duty cycle is how many times it outputs the voltage per amount of time. 
+	this depends on where "the dial is turned '
+	halfway = 50%
+
+You could set this up with an RGB LED in terms of where it is on a dial. 
