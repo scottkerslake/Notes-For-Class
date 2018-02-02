@@ -1,1 +1,17 @@
 Dynmc Jan 22nd
+
+
+
+Class names should take usability into consideration
+
+BEM CSS methodology
+
+Block the parent component
+Element	the child of the block
+Modifier is a variation of the blocks style 
+
+
+Each one of the child elements take on the name of the parent with two underscores and then its specific element. 
+
+For modifier you use two dashes and but it in the block level after the original block class
+

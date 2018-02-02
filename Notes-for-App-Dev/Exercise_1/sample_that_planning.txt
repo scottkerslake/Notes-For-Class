@@ -1,0 +1,67 @@
+
+Smart Draw
+
+
+
+
+List of screens that are needed in the sample that App
+
+--List of all the samples that you have taken i.e. photos
+--Camera access screen most likely
+
+--Use the color sample icon from photoshop
+
+
+
+
+*Home screen
+
+
+*List of existing Boards 
+
+	UI =
+
+	Have to have a button for deleting the existing boards etc.
+	From here you should also be able to edit your existing boards.
+
+
+*Create New Boards Screen
+	This has title and other options etc. 
+
+*Add Photo Screen
+
+	UI = 
+
+	New Photo, or from existing photo's
+	Accesses the camera 
+
+*After taken photo 
+	the photo editing and caption screen comes up so the user can input data
+	Save to Photo's, or put on board.
+
+
+
+
+
+
+
+App has to have these functionalities 
+*Create New Boards 
+*Delete Boards
+*Basically need to have a camera button?
+*Delete photo's button
+
+
+
+
+
+
+//////////Questions to answer\\\\\\\\\\\\\
+
+What is on the home screen? 
+
+How do you loop back to homescreen
+
+
+
+
