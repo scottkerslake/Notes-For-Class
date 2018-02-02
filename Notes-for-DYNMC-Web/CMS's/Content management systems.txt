@@ -1,0 +1,84 @@
+Adventures of the interstellar burger
+
+
+Content management systems n stuff
+
+
+•Need for more dynamic content led to more CSS's 
+•A consolidated place for content editing and management. 
+
+
+•CMS's where a response to the need of more dynamic content. 
+•Ways to dynamically engage each user. Each user might not get the same experience
+•
+
+
+Database-----------------> template--------------------> editing
+   
+   
+	
+
+Full-stack: server-side and front end 
+
+•An html file acts like the entire whole deal, the template, content, and the place you edit.
+•Dependant on being run on a server.
+
+•New approach to creating a website when you step outside the student static assignments
+•hmmmmmmmmmmmmmmm
+
+
+•Rather than the embedding the content in html, you have a system for managing the content differently
+•different control for the content
+•Who gets to control the content?
+•providing permissions to people editing the content
+•also provides version control
+
+
+•content automation
+•filter the content based on the users needs 
+•Editorial efficieny for sure
+
+
+•Easier for a large amount of pages. 
+
+•Referencing content from a database is so much easier than entering it in manually on every page. 
+
+Plugins for dynamic content modules
+	•don't have to reinvent the wheel 
+	•Common design patterns are supported so that you don't have to code it yourself. 
+
+•Content creators can add their own conten so the designer/developer doesn't have to. 
+
+
+
+
+///////////////////////////////CONTENT IS KING\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+•The primary reason that anyone will come to your site
+•People go to websites to do things
+•it's about what's there 
+
+•prioritizing what's there 
+•think of it just as much as a feature than anything else 
+
+
+
+When to use a CMS
+
+•Content needs to be updated often
+•You want to be able to easily update the site
+•Someone else needs to be able to update the site
+•More than one person needs to be able to update the site
+
+•Needs to be easy if you're updating things often 
+
+
+•Tight budget. 
+
+•It really depends on the person who you are doing the site for
+	•if they aren't tech savy you're going to have a bad time dog
+
+
+utf-8 general ci for the new folder phpmyadmin for the database stuff
+
+
