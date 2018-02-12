@@ -1,0 +1,10 @@
+editing files in wordpress with the child theme
+
+if you want to edit structure of your site
+
+copy the file that you want into your child theme
+	ie footer.php
+
+then edit what you need to.
+
+if you need to edit the nav you can edit the includes folder, but you need to copy the entire folder to the child theme. 

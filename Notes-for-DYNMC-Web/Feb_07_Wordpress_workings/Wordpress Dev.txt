@@ -1,0 +1,12 @@
+synthecider
+synthesis
+
+
+
+What you use your posts for and what you use your pages for
+
+Posts can appear on many different pages. 
+
+Pages are thought of as being a static page of content 
+
+Content that cycles throught these pages, but the entire thing remains static 
